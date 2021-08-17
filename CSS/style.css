@@ -44,6 +44,10 @@ body{
     margin-left: 75px;
     text-decoration: none;
   }
+  .sedan a:hover {
+    background: #E28625;
+    color: #F2F2F2;
+  }
   
   .suv{
     background: #006971;
@@ -79,6 +83,10 @@ body{
     margin-left: 75px;
     text-decoration: none;
   }
+  .suv a:hover {
+    background: #006971;
+    color: #F2F2F2;
+  }
   
   .luxury{
     background: #004140;
@@ -113,6 +121,10 @@ body{
     padding: 10px 20px;
     margin-left: 75px;
     text-decoration: none;
+  }
+  .luxury a:hover {
+    background: #004140;
+    color: #F2F2F2;
   }
   
   
